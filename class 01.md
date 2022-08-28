@@ -30,3 +30,6 @@ Render the Props Data.
 ## The data within the props is passed i a uni-directional flow from parent to child (its also read only for the data coming from the parent cannot be altered from the child).
 # Things I want to know more about
 ## can we connect a React App with db?
+
+# Things I want to know more about
+### components
