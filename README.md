@@ -8,5 +8,6 @@
 [class 04](https://github.com/alaa-adoos/reading-notes/blob/main/class%2004.md)
 [class 05](https://github.com/alaa-adoos/reading-notes/blob/main/class05.md)
 [class 06](https://github.com/alaa-adoos/reading-notes/blob/main/class%2006.md)
+[class 07](https://github.com/alaa-adoos/reading-notes/blob/main/class%2007.md)
 ## *Code 401 - Advanced Software Development*
 [my github page](https://github.com/alaa-adoos)
