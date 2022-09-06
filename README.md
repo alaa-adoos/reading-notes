@@ -11,5 +11,7 @@
 [class 07](https://github.com/alaa-adoos/reading-notes/blob/main/class%2007.md)
 [class 08](https://github.com/alaa-adoos/reading-notes/blob/main/class%2008.md)
 [class 11](https://github.com/alaa-adoos/reading-notes/blob/main/class%2011.md)
+[class 12](https://github.com/alaa-adoos/reading-notes/blob/main/class%2012.md)
+[class 13](https://github.com/alaa-adoos/reading-notes/blob/main/class%2013.md)
 ## *Code 401 - Advanced Software Development*
 [my github page](https://github.com/alaa-adoos)
