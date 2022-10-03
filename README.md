@@ -23,7 +23,7 @@
 
 | Classes| Links |
 | --- | ----------- |
-| class 01 |[explore](./code%20401/class01.md) |
+| class 01 |[explore](./code401/class01.md) |
 | class 02 |[explore](./code401/class02.md) |
 
 [linkedin](https://www.linkedin.com/in/alaa-abu-al-adoos-047428237/)
