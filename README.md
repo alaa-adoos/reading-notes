@@ -5,18 +5,18 @@
 
 | Classes | Links|
 | --- | ----------- |
-| class 01| [explore](https://github.com/alaa-adoos/reading-notes/blob/main/code%20301/class%2001.md)|
-| class 02 |[explore](https://github.com/alaa-adoos/reading-notes/blob/main/code%20301/class%2002.md) |
-| class 03| [explore](https://github.com/alaa-adoos/reading-notes/blob/main/code%20301/class03.md) |
-| class 04 | [explore](https://github.com/alaa-adoos/reading-notes/blob/main/code%20301/class%2004.md) |
-| class 05| [explore](https://github.com/alaa-adoos/reading-notes/blob/main/code%20301/class05.md) |
-| class 06 | [explore](https://github.com/alaa-adoos/reading-notes/blob/main/code%20301/class%2006.md) |
-| class 07| [explore](https://github.com/alaa-adoos/reading-notes/blob/main/code%20301/class%2007.md) |
-| class 08 | [explore](https://github.com/alaa-adoos/reading-notes/blob/main/code%20301/class%2008.md) |
-| class 11| [explore](https://github.com/alaa-adoos/reading-notes/blob/main/code%20301/class%2011.md) |
-| class 12| [explore](https://github.com/alaa-adoos/reading-notes/blob/main/code%20301/class%2012.md) |
-| class 13| [explore](https://github.com/alaa-adoos/reading-notes/blob/main/code%20301/class%2013.md) |
-| class 15 | [explore](https://github.com/alaa-adoos/reading-notes/blob/main/code%20301/class%2015.md)|
+| class 01| [explore](./code301/class01.md)|
+| class 02 |[explore](./code301/class02.md) |
+| class 03| [explore](./code301/class03.md) |
+| class 04 | [explore](./code301/class04.md) |
+| class 05| [explore](./code301/class05.md) |
+| class 06 | [explore](./code301/class06.md) |
+| class 07| [explore](./code301/class07.md) |
+| class 08 | [explore](./code301/class08.md) |
+| class 11| [explore](./code301/class11.md) |
+| class 12| [explore](./code301/class12.md) |
+| class 13| [explore](./code301/class13.md) |
+| class 15 | [explore](./code301/class15.md)|
 
 
 ## *Code 401 - Advanced Software Development*
