@@ -1,17 +1,17 @@
 # **Classes and Objects**
 
 ## what is the different between objcet and classes
-|Object|Classs|
-|---| ----------- |
-|Object is an instance of a class|Class is a blueprint or template from which objects are created.|
-|Object is a real world entity such as pen|Class is a group of similar objects.|
-|Object is created many times as per requirement|Class is declared once|
+| Object | Classs |
+| --- | ----------- |
+| Object is an instance of a class | Class is a blueprint or template from which objects are created. |
+| Object is a real world entity such as pen | Class is a group of similar objects. |
+| Object is created many times as per requirement | Class is declared once |
 
 | Classes | Links|
 | --- | ----------- |
-| class 01| [explore](./code301/class01.md)|
-| class 02 |[explore](./code301/class02.md) |
-| class 03| [explore](./code301/class03.md) |
+| Object is an instance of a class|Class is a blueprint or template from which objects are created|
+| Object is a real world entity such as pen |Class is a group of similar objects |
+|Object is created many times as per requirement| [explore](./code301/class03.md) |
 | class 04 | [explore](./code301/class04.md) |
 | class 05| [explore](./code301/class05.md) |
 | class 06 | [explore](./code301/class06.md) |
