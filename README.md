@@ -28,5 +28,6 @@
 | class 03 |[explore](./code401/class03.md) |
 |class 04|[expoler](./code401/class04.md)   |
 |class 05|[expoler](./code401/class05.md)   |
+|class 06|[expoler](./code401/class06.md)   |
 
 [linkedin](https://www.linkedin.com/in/alaa-abu-al-adoos-047428237/)
