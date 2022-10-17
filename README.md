@@ -30,6 +30,8 @@
 |class 05|[expoler](./code401/class05.md)   |
 |class 06|[expoler](./code401/class06.md)   |
 |class 07|[expoler](./code401/class07.md)   |
+|class 08|   |
+|class 09|[expoler](./code401/class09.md)   |
 
 
 [linkedin](https://www.linkedin.com/in/alaa-abu-al-adoos-047428237/)
