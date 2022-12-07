@@ -44,4 +44,5 @@
 |class 20|[expoler](./code401/class20.md)   |
 |class 22|[expoler](./code401/class22.md)   |
 |class 23|[expoler](./code401/class23.md)   |
+|class 24|[expoler](./code401/class24.md)   |
 
