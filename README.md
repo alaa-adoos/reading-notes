@@ -46,5 +46,10 @@
 |class 23|[expoler](./code401/class23.md)   |
 |class 24|[expoler](./code401/class24.md)   |
 |class 25|[expoler](./code401/class25.md)   |
+|class 26|[expoler](./code401/class26.md)   |
+|class 27|[expoler](./code401/class27.md)   |
+|class 28|[expoler](./code401/class28.md)   |
+|class 29|[expoler](./code401/class29.md)   |
+|class 30|[expoler](./code401/class30.md)   |
 
 
